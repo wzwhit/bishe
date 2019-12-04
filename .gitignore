@@ -1,3 +1,4 @@
 runs/
 inplace_abn/
 ckpt/
+.pyc
